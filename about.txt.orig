@@ -1,0 +1,8 @@
+This is about me text file.
+here are some details about me.
+<<<<<<< HEAD
+my name is user 1 -- added by user1 !!
+=======
+my name is user 1 -- added by user1
+my name is user2 -- adde by user 2 !
+>>>>>>> bb635ef (commit from user2)
