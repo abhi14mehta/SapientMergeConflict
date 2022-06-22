@@ -1,3 +1,2 @@
 This is about me text file.
 here are some details about me.
-my name is user1 - line added by user1.
